@@ -1,5 +1,30 @@
 ﻿# Angry-Birds
 
+## Overview
+Birds Angry is a 2D physics-based game inspired by the popular Angry Birds franchise. In this game, players launch birds with unique abilities to destroy structures and defeat enemies (pigs). The game features various types of birds, including a special blue bird that can split into three upon activation.
+
+## Features
+- **Multiple Bird Types**: Each bird has its own unique abilities.
+- **Physics-Based Gameplay**: Utilize realistic physics to solve challenges.
+- **Interactive Levels**: Engage in different levels with varying structures and enemies.
+- **Special Abilities**: Activate special abilities for strategic gameplay.
+
+## Prerequisites
+Before running the game, ensure you have the following installed on your system:
+
+1. **Java Development Kit (JDK)**: Version 8 or higher
+   - You can download it from [Oracle's website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) or use [OpenJDK](https://openjdk.java.net/).
+
+2. **Gradle**: Version 6.0 or higher
+   - You can download it from [Gradle's website](https://gradle.org/install/).
+
+## Cloning the Repository
+To download the code, clone the repository using Git:
+
+```bash
+git clone https://github.com/yourusername/BirdsAngry.git
+cd BirdsAngry
+
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
 This project was generated with a template including simple application launchers and a main class extending `Game` that sets the first screen.
