@@ -21,7 +21,7 @@ Before running the game, ensure you have the following installed on your system:
 ## Cloning the Repository
 To download the code, clone the repository using Git:
 
-```bash
+##bash
 git clone https://github.com/yourusername/BirdsAngry.git
 cd BirdsAngry
 
